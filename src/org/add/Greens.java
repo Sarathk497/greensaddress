@@ -2,7 +2,7 @@
 
 package org.add;
 
-public class GreensTech {
+public class Greens {
 
 	private void location1() {
 		System.out.println("Thoraipakkam, Chennai");
@@ -25,7 +25,7 @@ public class GreensTech {
 	}
 
 	public static void main(String[] args) {
-		GreensTech g = new GreensTech();
+		Greens g = new Greens();
 
 		g.location1();
 		g.location2();
